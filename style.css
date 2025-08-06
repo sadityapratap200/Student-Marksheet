@@ -1,0 +1,36 @@
+.details {
+    position: absolute; left: 00%;
+  }
+  .college-details {
+    position: absolute; right: 45%;
+  }
+  .table-1, th, td {
+    border: 1px solid black;
+    border-collapse: Collapse;
+    text-align: center;
+  }
+  .red {
+    color: red;
+  }
+  .blue {
+    color: blue;
+  }
+  .table-2, th, td {
+    border: 1px solid black;
+    border-collapse: Collapse;
+  }
+  .table-3, th, td {
+    border: 1px solid black;
+    border-collapse: Collapse;
+  }
+  .table-4, th, td {
+    border: 1px solid black;
+    border-collapse: Collapse;
+  }
+  .table-5, th, td {
+    border: 1px solid black;
+    border-collapse: Collapse;
+  }
+  body{
+    overflow-x: hidden;
+  }
